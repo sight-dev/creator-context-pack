@@ -1,0 +1,7 @@
+CHANGE ONLY THE ENVIRONMENT OF AN EXISTING VIDEO
+
+Source: personal workflow seedance-background-swap, snapshot reviewed 27 October 2026. Adapted for portable creator use.
+
+Analyze duration, scene count, preserved foreground and replaceable surroundings first. Use the video as the motion, composition, cut and timing reference; list only the intended change. Write a compact directive rather than re-describing every action. Describe the new environment concretely and keep foreground people/product/props unchanged except explicitly requested text cleanup. This saved workflow defaults to text-free and silent output; current audio/text choices override. Follow source duration and shared 720p. Multiple locations need clear scene-specific assignments and may be less reliable. Do not split into extra paid jobs without scope. Two written directions may help an ambiguous aesthetic brief, but do not generate both by default. For Seedance 2.5 specifically, the shared 2.5 block order overrides the older minimal-format preference.
+
+Use shared context/CREATIVE-RULES.txt for settings, account checks, output review and attempt limits. Save the exact prompt and result with the project.

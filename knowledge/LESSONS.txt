@@ -1,0 +1,3 @@
+CREATOR'S NEW LESSONS
+The inherited lessons are in context/LESSONS.txt. Add only durable, confirmed new lessons here, with source/date and scope. Keep individual result feedback in projects/ and knowledge/feedback.jsonl.
+No new creator feedback has been recorded yet.

@@ -1,0 +1,7 @@
+PRESERVE SOURCE PERFORMANCE WHILE SWAPPING TARGETS
+
+Source: personal workflow genjutsu, snapshot reviewed 27 October 2026. Adapted for portable creator use.
+
+Inspect source duration, cuts, camera, actions and text. List each target-to-replacement mapping. Preserve unlisted elements, performance, expressions, framing, timing and camera. A replacement inherits the original interaction and must remain consistent across front/back views, reflections, occlusions and later cuts. Default duration follows source, target 9:16 and 720p if supported. The workflow default removes ALL visible text, including scene/product lettering; current explicit exceptions win. Reconstruct underlying surfaces without blur, masks, crops or replacement words. Preserve original audio by default; mute only when requested. Never claim ownership unless confirmed. Discover the current supported Genjutsu route and input limits; do not substitute a generic model silently. Submit within the authorized count, save the job ID and resolve unknown status before retrying. Review every cut and risky interaction, and listen to final audio. Any further generated correction requires another request under the shared retry rule.
+
+Use shared context/CREATIVE-RULES.txt for settings, account checks, output review and attempt limits. Save the exact prompt and result with the project.

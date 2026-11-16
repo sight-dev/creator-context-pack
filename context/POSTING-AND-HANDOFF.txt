@@ -1,0 +1,13 @@
+DELIVERY AND POSTING CONTEXT
+
+Saved owner preference: automatic Facebook and Instagram posting of fully finished videos, including audio. TikTok is optional. Upload the same finished file separately to each platform; do not rely on cross-posting. Verify the platform/account destination for every batch.
+Typical preference is four posts per account daily, adjustable by batch. The owner uses Europe/Athens. Exact hours must come from the batch. A later six-video Wednesday batch at three-hour intervals was a specific assignment, not a permanent replacement schedule.
+Products rotate within about a month. Use flexible product/account routing, not fixed folders for only two products. The owner prefers one continuing social-posting chat/project. That preference does not mean this creator already has a scheduled posting system.
+No-view-impact is a desired outcome, not a guarantee. Do not infer account-type changes or publishing authorization from this context. Current platform capabilities and account access must be checked when an actual posting task is assigned.
+
+PROPOSED CREATOR HANDOFF
+Deliver the finished file plus: product name, version, intended platform/account, audio mode, caption if requested, actual dimensions/duration, source links, prompt/settings/job IDs and honest review status. Mark draft vs reviewed vs user-approved separately. For posting, record explicit date, timezone, per-platform status and returned post/schedule ID. A saved plan is not a scheduled post.
+Use templates/DELIVERY-CHECK.txt and templates/RESULTS.csv. Creator names, markets, budgets and destination accounts must be supplied in setup/CREATOR-SETUP.txt.
+
+OTHER SAVED OPERATIONS CONTEXT
+The owner also requested a phone-friendly revenue dashboard: historical earnings screenshots first, then daily total and per-store Shopify revenue. Whop was tentative for around January 2027. The profile recorded the plan, not a completed integration. This pack does not configure that dashboard or any archive/posting automation.

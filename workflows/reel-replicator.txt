@@ -1,0 +1,7 @@
+RECREATE A REEL SHOT FOR SHOT
+
+Source: personal workflow reel-replicator, snapshot reviewed 27 October 2026. Adapted for portable creator use.
+
+Extract and verify the source shot/beat map. Preserve every real shot, meaningful action and cut in scope, including shots without a swapped element. Classify each as swap-edited, cleanup-only or clean pass-through. Source frames may control pose/composition in this workflow; actual product photos control identity. Describe avatar/room inspiration unless the exact person/room is requested as a reference. Create coherent scene anchors, inspect them, then produce dependent frames. Keep changing package/object states sequential. Independent shots may be batched within the authorized count. Default Nano Banana Pro 2K and Seedance 2.0 standard 720p, subject to current support and task choices. The complete reel must be explicitly requested before submitting multiple required clips; no video quality retries. Save all IDs, trims and source-to-output mapping. Assemble to verified source timing and review all cuts, product states and audio. See the included PITSTOP example; do not force its 11 shots or duration onto another source.
+
+Use shared context/CREATIVE-RULES.txt for settings, account checks, output review and attempt limits. Save the exact prompt and result with the project.

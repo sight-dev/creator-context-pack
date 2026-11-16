@@ -1,0 +1,7 @@
+EXTRACT SOURCE FRAMES AND REAL SHOTS
+
+Source: personal workflow video-frame-extractor, snapshot reviewed 27 October 2026. Adapted for portable creator use.
+
+Inspect source metadata, playback and full-resolution frames. Produce numbered candidate frames, a contact sheet and a separate cut-audit sheet. Check both entry and return of brief cutaways. A sampled pose is not automatically a separate shot; a detected scene change is not automatically a real cut. Preserve candidate numbering and map every candidate to a verified shot/beat or an unresolved entry. Record measured start/end times, action and representative frame. Deliver all requested frames. Cache the source hash/settings so extraction can be reused; do not replace the source timing with candidate spacing. Extraction alone does not authorize animation.
+
+Use shared context/CREATIVE-RULES.txt for settings, account checks, output review and attempt limits. Save the exact prompt and result with the project.

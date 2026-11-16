@@ -1,0 +1,7 @@
+IMPROVE OR RELOCATE A SUPPLIED PRODUCT VIDEO
+
+Source: personal workflow product-video-recast, snapshot reviewed 27 October 2026. Adapted for portable creator use.
+
+Begin with the source shot map and the exact permitted changes. Visual improvement does not itself allow a new performance, script, camera move or edit. Diagnose concrete weaknesses: light, unclear reaction, poor contact, irrelevant setting or identity drift. When actual Pinterest photographs are requested, inspect real candidates and preserve their source links instead of silently generating substitutes. Match product use, pose, geometry, lighting and identity coverage. Moving a scene also moves its related B-roll/support props; it need not move unrelated locations. Present a source-to-target board when a choice remains; if art direction and execution are already delegated, select and proceed. Use Genjutsu within current supported controls and allowed attempts. Review back turns, hoods, hands, reappearances and adjacent close-ups, not just an easy front view. Record source vs result at matching times. Do not add a paid test or automatic retry without scope.
+
+Use shared context/CREATIVE-RULES.txt for settings, account checks, output review and attempt limits. Save the exact prompt and result with the project.

@@ -1,0 +1,7 @@
+WRITE A NEW GENERAL SEEDANCE 2.0 PROMPT
+
+Source: personal workflow video-prompt-builder, snapshot reviewed 27 October 2026. Adapted for portable creator use.
+
+Use for original briefs that do not fit a dedicated reveal/remake route. Return four sections: shot-by-shot effects timeline; master effects inventory; effects density map; energy arc. Effects mean the visible motion/light/edit behavior, not hype words. Use a fixed camera and single continuous take when the brief leaves camera unspecified; then timeline blocks are beats, not artificial cuts, and the effects inventory excludes camera moves. A requested pan/multi-shot brief overrides only conflicting camera locks. Ordinary UGC often needs minimal effects; do not force cinematic polish or frantic edits. For 4–7 second clips, keep the plan physically plausible. Use the shared 2.5 structure instead for any Seedance 2.5 task. Prompt writing does not submit media.
+
+Use shared context/CREATIVE-RULES.txt for settings, account checks, output review and attempt limits. Save the exact prompt and result with the project.

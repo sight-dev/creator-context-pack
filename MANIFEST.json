@@ -1,0 +1,250 @@
+{
+  "created": "2026-10-27",
+  "files": [
+    {
+      "file": "AGENTS.md",
+      "bytes": 2902,
+      "sha256": "6779cff2d80d31096a52f16f2ebaace6af0434032021f290325680214c6c17cf"
+    },
+    {
+      "file": "CLAUDE.md",
+      "bytes": 238,
+      "sha256": "38ef95b0d896070da56f8847b5d3bc91f1086e11c6a09681f001f727f388d69a"
+    },
+    {
+      "file": "SOURCES.txt",
+      "bytes": 3200,
+      "sha256": "0030451cd1508a63cf7e4640d0bb522e02a7321f3bb8d451b79b49272a30acd4"
+    },
+    {
+      "file": "START-HERE.html",
+      "bytes": 4954,
+      "sha256": "c475ef0e763818394415be0636751688131beaeb7e976354b4123413049abfd5"
+    },
+    {
+      "file": "START-HERE.txt",
+      "bytes": 2463,
+      "sha256": "0676e76725c53f574db4092f92318411f29150339987edecce96bb877d0efb0a"
+    },
+    {
+      "file": "context/BUSINESS.txt",
+      "bytes": 3232,
+      "sha256": "f020c5657435295bf8d336e748feee3376694d8a29c0c32e13cd7fe6b5661090"
+    },
+    {
+      "file": "context/CREATIVE-RULES.txt",
+      "bytes": 4250,
+      "sha256": "dcaf90706b2879a19fdf19add6720a5b0e9aed64d8507eeaa430cbf8af05c91b"
+    },
+    {
+      "file": "context/LESSONS.txt",
+      "bytes": 4869,
+      "sha256": "e0e424445dd4eec7623d2b0eec0269f2b1d9a586fc7e0543a1033525442e3efd"
+    },
+    {
+      "file": "context/POSTING-AND-HANDOFF.txt",
+      "bytes": 2016,
+      "sha256": "29cca968eed103d6007b3fdc5bf8a80ee5ac3bbe8294281b9cf69038b331014a"
+    },
+    {
+      "file": "context/RESEARCH.txt",
+      "bytes": 2917,
+      "sha256": "4c7f0905bb3218d3b0bc33eb1eb0db85fd517ee3cc6c19abd234518298090546"
+    },
+    {
+      "file": "context/WORKFLOW-MAP.txt",
+      "bytes": 1379,
+      "sha256": "07dd23b34733d2a163297952989ae6691feb38f56d21d3fe1a3ae930429eb313"
+    },
+    {
+      "file": "examples/pitstop-approved/READ-ME.txt",
+      "bytes": 1333,
+      "sha256": "4128c66f2523387ba8b60bd11484e72290b4110e5534aef53d55c5ed59af2326"
+    },
+    {
+      "file": "examples/pitstop-approved/approval.json",
+      "bytes": 1247,
+      "sha256": "49f51cb63be03950a3a17e09ae1bf84e366f5c5d13923f0295d9d35be02c9b60"
+    },
+    {
+      "file": "examples/pitstop-approved/final-contact-sheet.jpg",
+      "bytes": 291225,
+      "sha256": "26e7f59cedafba7443ed298752ff47b991d3f79bf55f0346f26a2fc577e1d21c"
+    },
+    {
+      "file": "examples/pitstop-approved/historical-quality-review.json",
+      "bytes": 1711,
+      "sha256": "582532ae29e60a240538b4160e9eddc7fb386ee8840d4c79b9f2cf8402b2882c"
+    },
+    {
+      "file": "examples/pitstop-approved/pitstop-cars-remake.mp4",
+      "bytes": 8403862,
+      "sha256": "01aa054a9e71f3984a6721d397cf9a34a84e824129db77d14728fcde84c38c88"
+    },
+    {
+      "file": "knowledge/LESSONS.txt",
+      "bytes": 268,
+      "sha256": "d1f9ab6023daaba4b43b331f4cdb9b1326544438f032c2fc1b661ee40729492d"
+    },
+    {
+      "file": "knowledge/feedback.jsonl",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "file": "projects/START-A-PROJECT.txt",
+      "bytes": 500,
+      "sha256": "0e7559bcdd6cb791e71b6faf9337034112bbf333db9062d37c7471863f8ca9e7"
+    },
+    {
+      "file": "prompts/GENJUTSU-TEMPLATE.txt",
+      "bytes": 1418,
+      "sha256": "bbe2b1b9130aaaa33084c31bc6b1194340c15376f847e4f756e46150a410f259"
+    },
+    {
+      "file": "prompts/IMAGE-TEMPLATE.txt",
+      "bytes": 1513,
+      "sha256": "c86692257f91e6b1bdffee412e53b579a2a70473714dffb7820d8517cef23266"
+    },
+    {
+      "file": "prompts/MILAN-PICKUP-EXAMPLE.txt",
+      "bytes": 4286,
+      "sha256": "f125f59e7f49ff79eea376efc1d01bdb0983833128adde66599b351506f8442d"
+    },
+    {
+      "file": "prompts/SEEDANCE-2.5-TEMPLATE.txt",
+      "bytes": 1840,
+      "sha256": "14b28ccb960193773ab552ab65e4671333208c65276d1a5856ae9da439bf3a50"
+    },
+    {
+      "file": "setup/ACCOUNT-SETUP.txt",
+      "bytes": 2531,
+      "sha256": "9c591a700c5e79f13bcb1078b69ceeae9543b8484b6988bf8a5cd13759121c50"
+    },
+    {
+      "file": "setup/CONTEXT-CHECK.txt",
+      "bytes": 1314,
+      "sha256": "bc38de98c10083b8bbdbc284d520cc525eba8b97b5676528a3e8077e2f591f8d"
+    },
+    {
+      "file": "setup/CREATOR-SETUP.txt",
+      "bytes": 912,
+      "sha256": "072c89f56ac31df55036760dc1169980cc625104fbcc2fa61bc1001fa657d196"
+    },
+    {
+      "file": "setup/FIRST-MESSAGE.txt",
+      "bytes": 808,
+      "sha256": "476ffe8c24ec737f381a57fad84e1b5a225dc981cc4cb3f66b8b1cf3dd5ea558"
+    },
+    {
+      "file": "templates/DELIVERY-CHECK.txt",
+      "bytes": 1005,
+      "sha256": "35bf9095e40012dad933e8939aa3808ea483ed86ca2ebd594bab2178d29193de"
+    },
+    {
+      "file": "templates/FEEDBACK-RECORD.json",
+      "bytes": 402,
+      "sha256": "736d79329298374acfbe6000ed14765be2e448892ce4a13bc1fcc9b3bc146da9"
+    },
+    {
+      "file": "templates/GENERATION-RECORD.json",
+      "bytes": 635,
+      "sha256": "d071fc0bfe52b76ec186643794355d605e8e11cb032733623a19f4737ea70e80"
+    },
+    {
+      "file": "templates/NEXT-CHAT-HANDOFF.txt",
+      "bytes": 359,
+      "sha256": "52cbaac15062734d58ebb1d5b9a9a642720ac72f8df61e7e89b01f2dd248b7d2"
+    },
+    {
+      "file": "templates/PRODUCT-BRIEF.txt",
+      "bytes": 662,
+      "sha256": "9e96567837fd9c64dfd1e2a7a8fe7bf8dfd546d85e61385e449ed4c68ddc72c6"
+    },
+    {
+      "file": "templates/RESULTS.csv",
+      "bytes": 194,
+      "sha256": "ae14138a7bdc02fc646085fd99ea1eaf931f6c24ff5295d6ad1cb3bec01a024d"
+    },
+    {
+      "file": "templates/SHOT-MAP.csv",
+      "bytes": 195,
+      "sha256": "b2dbcd0664306101cc86090b3200784f2b9d87966ff2590a003cc413b4f03db8"
+    },
+    {
+      "file": "workflows/clean-up.txt",
+      "bytes": 940,
+      "sha256": "7ce23d266d940a86bd066299b440cd9500e9f87ef89ade5b0b510b969ed63d78"
+    },
+    {
+      "file": "workflows/genjutsu.txt",
+      "bytes": 1356,
+      "sha256": "c095abfcb80f0975c72319fb007ddbec048d77a843a75c20bd5a48a94e536e10"
+    },
+    {
+      "file": "workflows/market-niche-research.txt",
+      "bytes": 699,
+      "sha256": "c0d1d24e887f621060f2dd2b114b140008d97633192ed27dae0343a89d488099"
+    },
+    {
+      "file": "workflows/product-video-recast.txt",
+      "bytes": 1291,
+      "sha256": "ed9b0ba1b7a4abeb366caa7eda331d2930b0a1ff748eb8f4dbcab80ee9b6bb11"
+    },
+    {
+      "file": "workflows/reel-replicator.txt",
+      "bytes": 1337,
+      "sha256": "64bef8c41d0bed60770423f7731344edfc7b3577d39b5f061507cf0822a2b3c3"
+    },
+    {
+      "file": "workflows/seedance-321-reveal.txt",
+      "bytes": 1190,
+      "sha256": "ed3ef83707815ed9fad575309c2e38cd01d6946edeeb2af280b577c9f2383b1d"
+    },
+    {
+      "file": "workflows/seedance-background-swap.txt",
+      "bytes": 1186,
+      "sha256": "b562c26d685d32203dce70e04fc24d9b60185c65ce350a5ff341d665ab10b38d"
+    },
+    {
+      "file": "workflows/seedance-drop-reveal.txt",
+      "bytes": 1137,
+      "sha256": "8c85eeb5863557261006108c47d650b9ef526918d8193e07891f0fe594714231"
+    },
+    {
+      "file": "workflows/seedance-video-remake.txt",
+      "bytes": 1303,
+      "sha256": "611afcb73fc29171337a2eecbaf4ec7af68ba8d072df93225efee8003018ed8b"
+    },
+    {
+      "file": "workflows/short-form-realism.txt",
+      "bytes": 1138,
+      "sha256": "4a98b79e951146c0da291cf1619c58db55c40bc95ba6d8099b4f97f65480cab8"
+    },
+    {
+      "file": "workflows/showcase-broll-image.txt",
+      "bytes": 1081,
+      "sha256": "94a7bb207ab70a7c2a2e5fa65a1a9136556ed04d15ee976f8dec0858caeeb856"
+    },
+    {
+      "file": "workflows/showcase-broll-video.txt",
+      "bytes": 1076,
+      "sha256": "589d96296331baa447e5eed0a1b0d24e618c9b8740011713b51b8646ab083760"
+    },
+    {
+      "file": "workflows/video-frame-extractor.txt",
+      "bytes": 974,
+      "sha256": "27ac76d6d20abc37379184fe2243d5ef2f472b218f130eb9efb71d4fb47b2f00"
+    },
+    {
+      "file": "workflows/video-prompt-builder.txt",
+      "bytes": 1083,
+      "sha256": "f62bae6976172e20176d656e05bddd947f1c64631aeb0eb45cc0f8ed335e5953"
+    },
+    {
+      "file": "workflows/visual-hook-remake.txt",
+      "bytes": 986,
+      "sha256": "8427f26afbc378627854fc4e71dfa58ef862a4eeaf4dcd302f3263aa73d4955e"
+    }
+  ]
+}

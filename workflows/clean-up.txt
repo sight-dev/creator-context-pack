@@ -1,0 +1,7 @@
+REMOVE SCREENSHOT OVERLAYS
+
+Source: personal workflow clean-up, snapshot reviewed 27 October 2026. Adapted for portable creator use.
+
+Use Nano Banana Pro, 2K, 9:16 unless the task overrides. Inspect each screenshot and enumerate its actual caption, emoji, buttons, account row, watermark and other overlays. Use that screenshot as the cleanup reference; reconstruct the underlying scene. Preserve composition, lighting, people, product and natural depth of field. Repair screenshot motion blur only as needed. Do not restyle, beautify or add swaps unless requested. Keep each source screenshot in its own request/mapping. Apply the requested image count or shared default. Generative cleanup cannot promise pixel identity. Review former overlay areas for smearing and unwanted changes.
+
+Use shared context/CREATIVE-RULES.txt for settings, account checks, output review and attempt limits. Save the exact prompt and result with the project.

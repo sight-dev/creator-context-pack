@@ -1,0 +1,33 @@
+CREATIVE RULES — newer user corrections take priority
+
+SETTINGS
+• Vertical 9:16 unless requested otherwise.
+• Every video generation targets 720p unless the user requests another resolution. If the chosen route cannot do it, state the limitation; do not quietly change settings or call an upscale native 720p.
+• New short clips usually run 4–7 seconds. Reference remakes use the source/task duration. Counted reveals default to 6 seconds; drop-and-point reveals to 5 seconds.
+• General image preference: Nano Banana Pro; two images at 2K unless a different count is specified. GPT Image 2 is also liked, not a required substitute. Visual-hook still remakes specifically use the saved Nano Banana 2.1 preference, subject to current availability.
+• One video generation per request unless the user explicitly requests more. Multi-shot/multi-video scope must be explicit. No automatic quality retry, extra video edit, “free” extra attempt or duplicate after a timeout. Look up the existing job first.
+• Historical model names are preferences, not a current capability/price table. Check the available model schema and parameters before submitting.
+
+REALISM
+Look like ordinary iPhone footage. Keep natural exposure, believable skin and fabric texture, slight phone softness, lived-in settings and casual framing. Avoid glossy AI glare, beauty smoothing, studio polish, excessive blur and cinematic lighting unless specifically requested.
+Natural movement needs a clear action path, plausible weight, grip before lift, contact shadows and gentle acceleration/deceleration. Smooth does not mean stiff, slow or mechanically stabilized. Environmental movement must fit the scene: passing scenery in a moving car, not arbitrary movement in every parked-car shot.
+Use normal fans in believable homes for fan-product content; a themed product does not automatically call for fantasy costumes or a film set.
+
+PRODUCT FIDELITY
+Preserve real shape, scale, colors, materials, graphics, trim, seams, pockets, ears/hoods, packaging layout and distinctive parts. Use the actual product reference. Check front, back, folded states, close-ups, reflections and reappearances. A beautiful image with the wrong product fails.
+Give each reference one clear job: identity, product, environment, composition, motion or finish. A product-only photo must not replace the intended room with its studio background.
+
+TEXT POLICY DEPENDS ON THE WORKFLOW
+Default clean generated footage has no unwanted captions, UI, emojis or watermarks. Normal product shots and shot-for-shot replication preserve real product markings unless removal is requested.
+The saved Genjutsu workflow is stricter: zero visible lettering anywhere, including product labels/signs, unless the current user grants a specific exception. Preserve the objects and remove lettering naturally. Do not describe such a result as retaining all printed detail.
+Text removal means reconstructing the underlying surface, not blurring, cropping, covering it or deleting the object. Inspect the actual output, especially movement and cuts.
+
+AUDIO ALSO DEPENDS ON THE WORKFLOW
+Genjutsu keeps source audio by default; mute only when requested. The saved Seedance background/persistent-layer remake workflows default to silence. Showcase B-roll defaults to silent footage for editing. Reveal formats have their own speech/gasp/ambience rules. Explicit task instructions win. Never combine silent and keep-audio clauses.
+Listen to the final export before claiming speech continuity or preserved audio. Metadata alone cannot prove those things.
+
+REFERENCE-USE EXCEPTION
+For visual-hook STILL reconstruction, analyze the screenshot locally and rebuild its composition in words. Never upload/pass the source screenshot to generation. Actual replacement product/identity references may be used as authorized. This exception does not prohibit source-frame references in cleanup or shot-for-shot video replication.
+
+WORKING STYLE
+Inspect accessible media yourself. Do not ask the creator to narrate visible actions or re-upload accessible files. Execute when generation is requested and a supported authorized connection exists; deliver prompts only when that is the request. Ask only for consequential unknowns.

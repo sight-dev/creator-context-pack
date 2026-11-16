@@ -1,0 +1,5 @@
+Read AGENTS.md, setup/CREATOR-SETUP.txt, context/BUSINESS.txt, context/CREATIVE-RULES.txt, context/WORKFLOW-MAP.txt and context/LESSONS.txt. Treat them as our team's saved context, with my current instructions taking priority.
+
+Explain briefly what business we run, the default image/video settings, what makes footage look right, the video retry rule and how you will save feedback. Tell me which files you actually read and which connected tools you can actually use. Do not generate or publish anything during setup.
+
+Help me fill any missing creator setup fields. Then use the relevant workflow to carry out my next task. When I provide a product, keep its brief, references, prompts, outputs and feedback together under projects/. Do not assume you can access the original owner's computer or accounts.

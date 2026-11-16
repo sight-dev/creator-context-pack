@@ -1,0 +1,23 @@
+PREFERRED IMAGE PROMPT ORDER
+Fill concrete details and remove unused blocks. This is a template, not a submitted job.
+
+1. MEDIUM / SCENE
+Photorealistic vertical 9:16 smartphone-video frame of [one clear moment] in [specific lived-in setting].
+2. CAMERA / COMPOSITION
+[Camera height, distance, angle, foreground/background, subject sizes, edge crops, useful clear background and movement margin].
+3. FOREGROUND PERSON
+[Appearance, clothing, exact pose, hand placement, gaze, expression, action].
+4. SECOND PERSON / INTERACTION, IF NEEDED
+[Their actual role and how both people participate in the same believable moment].
+5. ENVIRONMENT / PRODUCT
+[Exact reference product, location, orientation, scale, who holds/supports it, key details that must remain]. [Relevant ordinary room details].
+6. LIGHT / FINISH
+[Plausible location light, natural skin and material texture, slight phone softness, casual framing, believable contact shadows]. No studio polish, beauty smoothing, AI gloss or excessive blur.
+7. TEXT
+[Workflow-specific text policy; distinguish social overlays from product markings].
+
+REFERENCE ROLES
+Image 1 = [role]. Image 2 = [role]. Do not copy incidental background/pose from a product-only reference. For visual-hook still reconstruction, the source screenshot is analyzed locally and NOT attached to generation.
+
+SETTINGS SEPARATE FROM PROMPT
+Model: [current supported model matching workflow]. Ratio: 9:16. Resolution: 2K. Count: 2 unless specified otherwise. Record settings actually submitted.

@@ -1,0 +1,11 @@
+APPROVED EXAMPLE — PITSTOP / CARS
+The included reel is the exact user-approved output from 20 October 2026. It is a reference for this product series, not a requirement to imitate every detail in every future product.
+
+The historical production kept 11 shots, 437 frames at 30 fps, about 14.57 seconds, 720 × 1280 and silent audio. Four ending showcases used different cars. Each of the 11 required video jobs was submitted once; no video quality regeneration.
+
+Transferable process: verify real shots and meaningful beats; preserve product references; use coherent scene anchors; keep state changes sequential; inspect each result; trim to source timing; save inputs, job IDs and reviews. A new source gets its own shot map, duration and audio policy.
+
+KNOWN LIMITS
+Compartment numbers change in shot 7. Historical review sampled frames and did not establish continuous-motion quality by full playback. User approval was of the overall delivered result; the user did not give a reason or explicitly endorse number drift. Read historical-quality-review.json alongside approval.json.
+
+The original source footage, full generation inputs and execution scripts are not included in this compact pack. Do not claim this folder alone can exactly reproduce the reel. The included video hash is checked against the saved approval record.

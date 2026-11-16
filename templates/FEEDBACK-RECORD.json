@@ -1,0 +1,15 @@
+{
+  "date": "",
+  "source": "",
+  "product": "",
+  "asset_file": "",
+  "asset_version": "",
+  "exact_words": "",
+  "kind": "approval / correction / rejection / selection / instruction",
+  "explicit_reason": "not stated",
+  "lesson": "",
+  "scope": "this asset / this workflow / explicitly durable",
+  "assistant_interpretation": "",
+  "supersedes": null,
+  "permission_for_another_generation": false
+}

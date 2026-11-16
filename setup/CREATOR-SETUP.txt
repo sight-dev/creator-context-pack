@@ -1,0 +1,18 @@
+CREATOR SETUP — fill once, update when assignments change
+Creator name: UNKNOWN
+Team contact/approver: UNKNOWN
+Assigned product(s): UNKNOWN
+Target market and language: UNKNOWN
+Working timezone: UNKNOWN (owner's historical posting timezone: Europe/Athens)
+Codex or Claude Code account label: UNKNOWN (no secrets)
+Assigned Higgsfield/media account label: UNKNOWN (verify actual login)
+Available tools/integrations: UNKNOWN
+Image allowance for this task or batch: UNKNOWN
+Video allowance for this task or batch: UNKNOWN
+Allowed paid generations / credit cap: UNKNOWN
+Posting is in scope? NO, unless separately assigned
+Platform/account routing: UNKNOWN
+Deliverable destination: local projects/ unless assigned otherwise
+Current source video/product references: UNKNOWN
+
+Do not fill unknowns with the original owner's account details. Defaults describe creative preferences; they do not allocate a creator budget.

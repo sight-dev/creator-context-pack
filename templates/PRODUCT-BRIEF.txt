@@ -1,0 +1,21 @@
+PRODUCT BRIEF
+Product/brand:
+Date / creator:
+Status: chosen product / under evaluation / concept only
+Exact product references (local files and source URLs):
+Verified features / dimensions / contents:
+Details that must not change:
+Buyer / recipient / viewer:
+Target market / language:
+Buying occasion / motive / objections:
+Evidence sources and date checked:
+Known competitor/reference examples:
+User-stated facts:
+Assistant hypotheses:
+Unknowns:
+Requested deliverable / allowed swaps:
+Model / image count / video count / duration / resolution:
+Text / audio policy:
+Generation allowance for this task:
+Destination / posting authorization if any:
+Success checks:

@@ -1,0 +1,7 @@
+ANIMATE PRODUCT B-ROLL
+
+Source: personal workflow showcase-broll-video, snapshot reviewed 27 October 2026. Adapted for portable creator use.
+
+Default selected workflow: one 6-second Seedance 2.0 generation containing three 2-second shots, when the needed A/B/C views are supplied or that set is requested. Single-shot mode: one roughly 5-second continuous clip. Use 9:16, 720p and silent audio unless instructed otherwise. These override older 1080p/automatic-retry notes. Choose one move per shot: physical push-in, left-to-right slide, or a small arc for the angle view. Distinguish physical movement from lens zoom. Use steady human speed, small handheld sway and a soft settle. Preserve geometry, markings, background and realistic product behavior. Requesting B-roll does not authorize separate extra video variants. Review cuts, drift, camera speed and actual silence; report failure without automatic regeneration.
+
+Use shared context/CREATIVE-RULES.txt for settings, account checks, output review and attempt limits. Save the exact prompt and result with the project.

@@ -1,0 +1,10 @@
+Recreate the supplied [DURATION]-second vertical iPhone UGC video. [SOURCE INPUT] controls source actions, expressions, gestures, shot order, cut timing, camera movement, angles, framing and pacing.
+
+Preserve all unlisted elements. The changes are:
+1. VISUAL SWAPS: [exact target → replacement mappings, input roles, consistent identity through all shots, reflections and occlusions]. Preserve physical contact and source performance; match light, perspective and scale.
+2. TEXT: [default strict zero visible lettering/overlays, or explicit task exception]. Remove captions, UI, emoji, watermarks and their shadows/boxes. For strict zero text, remove product/scene lettering too while preserving physical objects. Reconstruct the underlying surface with matching texture, light and edges. No blur, cover patches, crops, fake lettering, flickering repair or returning text.
+3. AUDIO: [choose ONE: preserve original speech/music/ambience/effects with timing and levels; OR completely silent with no audio; OR explicit requested treatment].
+
+[DURATION] seconds, vertical 9:16, source edit and performance preserved. Ordinary iPhone realism. [Chosen text policy and audio closing].
+
+Remove all placeholders and contradictory clauses before submission. Target 720p if supported. Verify source roles and tool controls; do not invent ownership or supported end-frame controls. Review the actual render. No automatic retry.

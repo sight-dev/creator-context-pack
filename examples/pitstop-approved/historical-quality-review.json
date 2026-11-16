@@ -1,0 +1,37 @@
+{
+  "reviewed_utc": "2026-10-20T02:54:02.375024+00:00",
+  "status": "user-approved delivered example",
+  "video": "pitstop-cars-remake.mp4",
+  "source_shots": 11,
+  "final_shots": 11,
+  "frame_count": 437,
+  "fps": 30,
+  "duration_seconds": 14.566666666666666,
+  "resolution": [
+    720,
+    1280
+  ],
+  "audio": false,
+  "validation": [
+    "All 437 exported frames decoded successfully.",
+    "All 11 source cut positions preserved.",
+    "Eight sampled frames per raw clip visually inspected.",
+    "One midpoint per final shot visually inspected in final contact sheet.",
+    "Four ending showcase clips contain distinct cars: Lightning McQueen, Mater, Sally, Doc Hudson."
+  ],
+  "known_limitations": [
+    "During shot 7, some printed compartment numbers change as the car is revealed; this prevents a pixel-accurate product-fidelity approval.",
+    "Generated hand motion and packaging details can differ from the original. Visual checks used sampled frames, not a continuous playback assessment."
+  ],
+  "generation_control": "All 11 video jobs submitted once. No video regeneration. Reused source extraction and uploaded references.",
+  "image_fallbacks": [
+    "Cover detail still was rejected twice by the provider; shot 4 animates the accepted closed-calendar image into a pointing close-up.",
+    "Reveal still failed product-grid review and was excluded; shot 7 uses the accepted numbered-door frame and car reference."
+  ],
+  "user_approval": {
+    "approved": true,
+    "recorded_utc": "2026-10-20T03:04:22.623526+00:00",
+    "source": "user-feedback.json"
+  },
+  "provenance": "Historical review from 20 October 2026; not a new continuous-playback review of the file during pack preparation."
+}

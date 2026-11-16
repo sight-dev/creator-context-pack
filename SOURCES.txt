@@ -1,0 +1,29 @@
+SOURCE SCOPE AND PORTABILITY
+Prepared 27 October 2026 from accessible saved local context. This is a curated creator handoff, not a claim to have reread every historical chat. Some older source headers show earlier dates despite later appended corrections.
+
+PRIMARY INTERNAL SOURCES
+• Maintained AI organic business profile: business, settings, later creative corrections, continuity and posting preferences, including entries through 27 October.
+• Product research criteria and Reddit variant workflow: product value, reach/conversion, timing, variants and audience evidence.
+• Market research shared context/process/lessons: keywords → accounts → videos/comments, customer vs creator, historical product examples.
+• Feedback policy and selected records from the dropshipping feedback ledger (420 lines at read time); relevant project feedback for PITSTOP, Naughty List, robes and October 26–27 jeans work. The pack does not include the full private ledger.
+• Fifteen personal workflow entrypoints: named in context/WORKFLOW-MAP.txt. Portable notes are summaries, not verbatim installed skills. Relevant source example/reference notes informed the summaries.
+• Saved Milan pickup Seedance 2.5 prompt, copied as a concrete structure example.
+• PITSTOP approved output, contact sheet, explicit approval and historical quality review. Approval and review are retained with their limitations.
+
+CONFLICTS RESOLVED
+Shared 720p and no-automatic-video-retry corrections override older workflow 1080p/retry defaults. Shared image count is two unless a task explicitly requests another set. Visual-hook source screenshot stays local despite older source-reference wording. Seedance 2.5 uses the saved 2.5 structure. Workflow-specific audio and text policies remain distinct; they are not silently flattened into one universal rule.
+
+WHAT IS NEW IN THIS PACK
+The creator setup form, startup message, folder layout, templates and context check are proposed onboarding aids assembled for this request. They have not been tested by signing into a separate Codex or Claude account. No account, connection, billing plan or schedule was changed.
+
+WHAT IS NOT INCLUDED
+Credentials, account login addresses, tokens, signed upload links, browser sessions, full chat exports, private scheduling IDs, all historical product media, installed plugins, executable skill tooling or automated sync. Original machine paths are replaced with portable references. Exact active products, creator roles, markets, budgets and posting permissions remain to be filled.
+
+OFFICIAL SETUP REFERENCES — opened 27 October 2026
+https://learn.chatgpt.com/docs/agent-configuration/agents-md
+https://code.claude.com/docs/en/memory
+https://code.claude.com/docs/en/quickstart
+The setup instructions use project-level AGENTS.md and a CLAUDE.md import. Review current official instructions if app behavior changes.
+
+HOW TO MAINTAIN
+Save new project evidence locally, then update shared lessons only for confirmed durable changes. Add version/date and provenance when distributing a refreshed pack. Keep a previous version. Sync to the team's chosen archive explicitly; this folder has no background access or maintenance job.

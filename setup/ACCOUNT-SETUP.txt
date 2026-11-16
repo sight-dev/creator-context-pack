@@ -1,0 +1,26 @@
+SET UP A CREATOR'S NEW ACCOUNT
+
+Codex
+Sign in using the creator's own or assigned account. Use the official installation/setup guidance linked below. Open this extracted folder as the local project and begin a new chat from its root. Codex supports AGENTS.md for project instructions. Paste FIRST-MESSAGE.txt and check the response against CONTEXT-CHECK.txt.
+
+Claude Code
+Install and sign in using Anthropic's current quickstart. Start Claude Code with this folder as its working directory (or select it in the supported app/editor). This pack's CLAUDE.md imports AGENTS.md, keeping both tools on one set of instructions. Paste FIRST-MESSAGE.txt. Use /memory to inspect loaded instruction files if needed.
+
+Tool connections
+Connect the approved media account separately. Higgsfield is the saved generation service, but this folder cannot install or authorize its integration. Confirm the current connection method in the provider's own setup instructions. Verify the signed-in identity and available models using the tools actually available. Do not copy the owner's connector names, account addresses, cookies or old media IDs into a new account.
+If no generation connection exists, the AI can still research accessible sources, inspect local files and prepare prompts. It must clearly say when it cannot submit a generation.
+
+Media tools
+Video work may need playback, audio listening, ffmpeg/ffprobe (tools that inspect and edit media), and an image viewer. Let the assistant check what exists before installing anything. Full-motion and speech review may need a human if the tool cannot play or hear the output.
+
+Plan choice
+No specific paid plan is prescribed here. Access, limits and features can change; use the official current account/plan screens. A text-agent login does not prove access to Higgsfield or its credits. Set the creator's actual generation allowance before the first job.
+
+Continuity
+Always work from the same project folder, including when opening a fresh chat. Keep the whole folder together when moving computers. Save each project's changes; a chat that cannot access these files will not inherit them automatically. Existing owner archive schedules have not been transferred.
+
+Official sources checked 27 October 2026:
+Codex instructions: https://learn.chatgpt.com/docs/agent-configuration/agents-md
+Codex starting point: https://developers.openai.com/codex/
+Claude Code quickstart: https://code.claude.com/docs/en/quickstart
+Claude project instructions/imports: https://code.claude.com/docs/en/memory

@@ -1,0 +1,7 @@
+ADD A PERSISTENT LAYER OR CHANGE A WINDOW/SCREEN VIEW
+
+Source: personal workflow seedance-video-remake, snapshot reviewed 27 October 2026. Adapted for portable creator use.
+
+Use this saved Seedance 2.0 workflow when a layer must persist, surface content changes, a material/variant changes, or multiple changes go beyond a plain background swap. Audit the source duration, real beats, signature action and KEEP inventory (object, material, color, position). Separate added layers from replacements. For a layer: state presence in every relevant frame, define the visible failure condition, and assign it to each actual beat including the ending. Do not replace objects underneath the added layer. For a window/screen, lock the frame, edges, size and position; change only the content inside. Keep light color/behavior consistent across cuts. The original recipe suggests at most two visual modules for control; that is a planning heuristic, not permission for staged extra generations. Default text-free/silent unless instructed otherwise. Preserve reference timing and use 720p. When using 2.5, keep these constraints inside the shared 2.5 format.
+
+Use shared context/CREATIVE-RULES.txt for settings, account checks, output review and attempt limits. Save the exact prompt and result with the project.

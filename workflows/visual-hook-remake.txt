@@ -1,0 +1,7 @@
+REBUILD A STILL HOOK WITH SELECTED SWAPS
+
+Source: personal workflow visual-hook-remake, snapshot reviewed 27 October 2026. Adapted for portable creator use.
+
+Inspect the screenshot locally. Establish the hook moment, composition, lens perspective, subject positions, expressions, hand contact, product, setting and light. Ask only about missing change choices. Reconstruct the scene from a detailed written prompt using saved Nano Banana 2.1 preference. IMPORTANT: never upload/pass the source screenshot as a generation reference for this workflow. Authorized replacement product/identity images may supply their own roles. Preserve the source interaction while applying only requested swaps. Remove social overlays. Review composition, exact product, anatomy, lighting and ordinary phone finish. Do not infer motion from a still.
+
+Use shared context/CREATIVE-RULES.txt for settings, account checks, output review and attempt limits. Save the exact prompt and result with the project.

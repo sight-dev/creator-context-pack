@@ -1,0 +1,11 @@
+NEXT CHAT HANDOFF
+Product and current task:
+Current accepted references:
+Completed files and exact versions:
+Submitted jobs and current statuses:
+Known defects and checks not performed:
+Latest exact user correction:
+Current task allowance / no-retry state:
+Next useful step:
+Files to read first:
+Do not rerun completed jobs simply because the chat restarted.

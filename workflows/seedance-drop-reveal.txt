@@ -1,0 +1,7 @@
+SHOCK, DROP, POINT AND PAN
+
+Source: personal workflow seedance-drop-reveal, snapshot reviewed 27 October 2026. Adapted for portable creator use.
+
+Use Seedance 2.5, default 5 seconds, 9:16, 720p. One continuous take. Shock → release held object once under gravity → point → one horizontal pan in the pointing direction → settle on product. If hands are empty, omit the drop and related sound; do not invent a drink. The pan starts after direction is clear and travels through the real intervening space, without a cut, downward chase, zoom or second deliberate move. Keep the starting and landing geometry compatible. A supplied product-only image controls design, not necessarily an exact landing frame. Do not claim dedicated end-frame control unless actually supported and used. Default audio: natural gasp/ambience, plausible impact only if an object drops; no spoken countdown. Use the Seedance 2.5 structure and review anatomy, product, direction, continuity and audio.
+
+Use shared context/CREATIVE-RULES.txt for settings, account checks, output review and attempt limits. Save the exact prompt and result with the project.

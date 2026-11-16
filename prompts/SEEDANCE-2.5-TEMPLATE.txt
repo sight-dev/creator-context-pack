@@ -1,0 +1,31 @@
+SEEDANCE 2.5 — PREFERRED BLOCK ORDER
+Use for every 2.5 prompt unless the current user asks for a different format. Replace placeholders. Keep only constraints needed for the scene.
+
+[Camera restrictions matching task]. [Single continuous take OR actual cut plan].
+Ultra-realistic vertical 9:16 iPhone [scene], [duration] seconds, normal real-time speed.
+
+REFERENCE ROLES
+[Each actual input and exactly what it controls. Separate source action, start scene, product detail, identity and landing composition.]
+
+TARGET OBJECT / REVEAL TARGET
+[Exact object, location, orientation, appearance and intended interaction. For concealment, name cover, support and first-visibility rule.]
+
+ACTION TIMELINE
+[0.0–X: connected action, starting state and contact.]
+[X–Y: continued movement with physically possible path.]
+[Y–end: payoff and natural settle/hold.]
+[Exact dialogue and synchronization if applicable. Beats inside a continuous take are not separate shots.]
+
+PHYSICAL GEOMETRY AND CONTACT
+[Scale, grip, support, separate rigid objects, hand assignment, plausible cloth/hinge behavior. Only relevant constraints.]
+
+MOTION AND SCENE LOCKS
+[Natural acceleration/deceleration, continuous action, exact product/identity, consistent environment and permitted camera movement. Avoid arbitrary fidgeting, morphing and extra hands.]
+
+CAMERA, REALISM AND AUDIO
+[Ordinary phone texture/light, natural scene activity where justified, exact chosen speech/ambience/music/silence policy, text policy.]
+Ultra realistic UGC iPhone quality.
+
+Settings: target 720p, 9:16, authorized duration and count. Verify model support and actual output.
+
+The included MILAN-PICKUP-EXAMPLE.txt is the original saved structure example. Its fixed camera, five seconds, specific carton, room and handling sounds belong to that scene; do not copy them into every task.

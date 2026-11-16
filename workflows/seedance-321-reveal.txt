@@ -1,0 +1,7 @@
+SIX-SECOND COUNTED PRODUCT REVEAL
+
+Source: personal workflow seedance-321-reveal, snapshot reviewed 27 October 2026. Adapted for portable creator use.
+
+Use Seedance 2.5 with the established structure in prompts/SEEDANCE-2.5-TEMPLATE.txt. Default 6 seconds, 9:16, 720p, one continuous take. Say exactly: “Three, two, one, let's see how it comes out.” Flow directly from counting into the phrase with no pause, restart or frozen body beat. The product stays fully concealed through “let's see how” and FIRST becomes visible on “it”; continue through “comes out.” Adapt the cover: cloth, hinged lid, removable cover, box or other supplied mechanism. Define grip, support and opening path. Preparation before the word is allowed only if the product remains hidden. Do not force cloth handling onto a rigid lid. Keep speech, lips, body and reveal continuously synchronized. Listen and watch the rendered output; timestamps and audio metadata cannot verify the cue. Matching end frames are task-specific, not always required.
+
+Use shared context/CREATIVE-RULES.txt for settings, account checks, output review and attempt limits. Save the exact prompt and result with the project.

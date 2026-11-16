@@ -1,0 +1,13 @@
+CHECK THE NEW CHAT BEFORE WORK
+Ask the assistant to answer from the actual files:
+1. Business: organic e-commerce; dropshipping fulfillment. Attention and buyer interest both matter.
+2. Video: 9:16, 720p, normally 4–7 seconds; source remakes follow source/task duration.
+3. Images: Nano Banana Pro generally; two images at 2K by default. Visual-hook still remake is the saved Nano Banana 2.1 exception.
+4. Retries: one video generation per request unless more are explicitly requested; no automatic quality retry.
+5. Realism: ordinary phone exposure/texture, natural motion, correct contact, exact product design.
+6. Countdown: “Three, two, one, let's see how it comes out”; no pause after counting or within the phrase; first product visibility on “it.”
+7. Visual-hook screenshot: inspect locally; do not send the source screenshot as a generation reference.
+8. Evidence: a selected image is not proof of approval of every detail; views do not prove sales.
+9. Saving: exact prompt, references, settings, job ID, output, review and feedback saved per project.
+10. Access: name actual connected tools and assigned account, or clearly say unknown/unavailable.
+If an answer is wrong, point to the relevant file before spending credits. This is a manual setup check; it is not an automated integration test.

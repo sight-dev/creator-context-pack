@@ -1,0 +1,7 @@
+CHOOSE BELIEVABLE PEOPLE/SETTINGS AND REVIEW MOTION
+
+Source: personal workflow short-form-realism, snapshot reviewed 27 October 2026. Adapted for portable creator use.
+
+Treat realism and attention separately. Choose a plausible person, place and action together. Favor candid styling, visible skin/hair/fabric texture, clear ordinary light, useful scene depth and product-related props. If the task requests Pinterest photographs, source and inspect actual candidates; a pin is not proof of authenticity or performance. Do not reuse the same face/room for every product. Reactions need a trigger, direction of gaze, expression change and recovery. A fixed shocked mouth is not a performance. Preserve accepted identity when fixing light. Review full motion and sound; stills cannot prove either. The shared 720p default overrides an older 1080p preference in this source workflow. Do not automatically add a baby, dog, fantasy costume or luxury room because a benchmark included one.
+
+Use shared context/CREATIVE-RULES.txt for settings, account checks, output review and attempt limits. Save the exact prompt and result with the project.

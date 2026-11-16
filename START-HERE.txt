@@ -1,0 +1,32 @@
+AI ORGANIC — CREATOR CONTEXT PACK
+Prepared 27 October 2026. Start here. This folder works as a local project in Codex or Claude Code.
+
+WHAT THIS IS
+A portable summary of the owner's saved business context, creative rules, research methods, production workflows and useful feedback. It includes project instructions for both tools, reusable templates and an actual approved example.
+This is a curated handoff, not a complete transcript of every chat or a full media archive. It reflects the saved sources checked for this pack. New instructions and later corrections take priority.
+
+SET UP IN FIVE STEPS
+1. Unzip the folder and keep all its files together. Each creator keeps their own working copy.
+2. Open THIS folder as the project/working folder in Codex or Claude Code. See setup/ACCOUNT-SETUP.txt.
+3. Paste the message from setup/FIRST-MESSAGE.txt into the new chat.
+4. Fill in setup/CREATOR-SETUP.txt with the assigned product, tools, account routing and budget. Leave unknowns marked unknown. Never put passwords or API keys there.
+5. Start with one real task. Save its references, prompt, outputs and feedback under projects/<product>/<date-task>/.
+
+READ FIRST
+context/BUSINESS.txt — what the business does and how products are judged.
+context/CREATIVE-RULES.txt — settings, realism, product fidelity and exceptions.
+context/RESEARCH.txt — audience, competitor, sound and variant research.
+context/WORKFLOW-MAP.txt — which workflow to use for each task.
+context/LESSONS.txt — approved examples and mistakes to avoid.
+
+THEN USE AS NEEDED
+workflows/ — 15 portable workflow notes adapted from the existing personal skill library.
+prompts/ — reusable image/video structures and a real saved prompt.
+templates/ — product brief, shot map, job log, review, feedback and results records.
+examples/pitstop-approved/ — approved reel, contact sheet and clearly stated limitations.
+context/POSTING-AND-HANDOFF.txt — production delivery and posting context.
+SOURCES.txt — source scope and official setup references.
+
+IMPORTANT DISTINCTIONS
+The folder carries knowledge. It does not transfer an account, subscription, credits, installed plugins, browser logins, cloud files, old chats or scheduled tasks. The workflow notes are readable instructions, not installed tool integrations.
+The proposed folder layout and creator setup checklist are new handoff aids. They are not evidence that an earlier creator onboarding system was already tested.

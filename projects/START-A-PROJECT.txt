@@ -1,0 +1,2 @@
+Create projects/<product>/<date-task>/ for each assignment. Copy only the needed templates there. Put supplied media in references/, exact prompts in prompts/, results in outputs/, and keep feedback plus NEXT-CHAT-HANDOFF alongside them. These subfolders are a proposed convention, not an existing installed system.
+Keep each creator's account/budget local. Send completed work to the team's chosen destination only when assigned. Synchronize updates deliberately; this folder has no automatic sync.

@@ -1,0 +1,7 @@
+RESEARCH A CHOSEN PRODUCT
+
+Source: personal workflow market-niche-research, snapshot reviewed 27 October 2026. Adapted for portable creator use.
+
+Read context/RESEARCH.txt. Resolve the exact product and sample, then inspect competitor content and comments. Record opening frame, spoken and written hooks, actions, sound, setting, ending and audience reactions. Deliver a supported customer profile, creator direction, keywords, sounds, hooks, B-roll and a first test. Label hypotheses and access gaps. Keep this separate from product selection.
+
+Use shared context/CREATIVE-RULES.txt for settings, account checks, output review and attempt limits. Save the exact prompt and result with the project.

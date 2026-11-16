@@ -1,0 +1,19 @@
+WORKFLOW MAP
+
+These are portable summaries of the existing personal workflows, reconciled with the owner's newer preferences. They are not installed slash commands or tool integrations. Read CREATIVE-RULES.txt first. Current task instructions win.
+
+Research a chosen product → workflows/market-niche-research.txt
+Extract source frames and real shots → workflows/video-frame-extractor.txt
+Remove screenshot overlays → workflows/clean-up.txt
+Rebuild a still hook with selected swaps → workflows/visual-hook-remake.txt
+Recreate a reel shot for shot → workflows/reel-replicator.txt
+Preserve source performance while swapping targets → workflows/genjutsu.txt
+Improve or relocate a supplied product video → workflows/product-video-recast.txt
+Choose believable people/settings and review motion → workflows/short-form-realism.txt
+Make animation-ready product frames → workflows/showcase-broll-image.txt
+Animate product B-roll → workflows/showcase-broll-video.txt
+Six-second counted product reveal → workflows/seedance-321-reveal.txt
+Shock, drop, point and pan → workflows/seedance-drop-reveal.txt
+Change only the environment of an existing video → workflows/seedance-background-swap.txt
+Add a persistent layer or change a window/screen view → workflows/seedance-video-remake.txt
+Write a new general Seedance 2.0 prompt → workflows/video-prompt-builder.txt

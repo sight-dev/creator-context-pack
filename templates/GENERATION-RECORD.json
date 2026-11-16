@@ -1,0 +1,30 @@
+{
+  "status": "template-not-submitted",
+  "product": "",
+  "task": "",
+  "source_files": [],
+  "source_hashes": {},
+  "reference_roles": [],
+  "model": "",
+  "settings": {
+    "aspect_ratio": "9:16",
+    "video_resolution": "720p",
+    "duration_seconds": null,
+    "count": null
+  },
+  "prompt_file": "",
+  "authorization_scope": "",
+  "credit_cap": null,
+  "estimated_cost": null,
+  "actual_cost": null,
+  "job_id": null,
+  "submission_status": "not_submitted",
+  "output_files": [],
+  "review": {
+    "visual": "unchecked",
+    "motion": "unchecked",
+    "audio": "unchecked",
+    "known_defects": []
+  },
+  "user_feedback": null
+}

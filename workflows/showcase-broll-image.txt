@@ -1,0 +1,7 @@
+MAKE ANIMATION-READY PRODUCT FRAMES
+
+Source: personal workflow showcase-broll-image, snapshot reviewed 27 October 2026. Adapted for portable creator use.
+
+Use exact product photos with a product-appropriate real room. Analyze a supplied background into a written breakdown unless the task explicitly calls for that exact room as an image reference. State reference roles. Frame the complete product at a believable distance with margin for camera movement; show foreground, product plane and background depth. Keep correct scale, support, mounting and contact shadows. Use ordinary light suited to the brief, realistic textures and no AI glare. A showcase/detail/side-angle set is available when requested; do not silently expand the default two-image batch into three. For a coherent set, reuse an accepted scene anchor while retaining real product references. Check product shape/print, contact and framing before animation.
+
+Use shared context/CREATIVE-RULES.txt for settings, account checks, output review and attempt limits. Save the exact prompt and result with the project.
